@@ -315,7 +315,7 @@ img{
     overflow: hidden;
     margin: 0 auto;
 }
-.fillheight {
+.fillheight{
     min-height: 100%; 
     width: auto;
 }
