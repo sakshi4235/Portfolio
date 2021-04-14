@@ -315,6 +315,10 @@ img{
     overflow: hidden;
     margin: 0 auto;
 }
+.fillheight {
+    min-height: 100%; 
+    width: auto;
+}
 .work-img img{
     transition: 0.1s;
     cursor: pointer;
